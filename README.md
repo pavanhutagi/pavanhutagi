@@ -5,19 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanhutagi&label=Profile%20views&color=0e75b6&style=flat" alt="pavanhutagi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pavanhutagi" target="blank"><img src="https://img.shields.io/twitter/follow/pavanhutagi?logo=twitter&style=for-the-badge" alt="pavanhutagi" /></a> </p>
-
 <br/>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱  I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/)
+- 👨‍💻  All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/)
 
-- 💬 Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
+- 💬  Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
 
-- 📫 How to reach me **pavanhutagi@gmail.com**
+- 📫  How to reach me **pavanhutagi@gmail.com**
 
-- ⚡ Fun fact **I feel like I am an analog guy in a digital world!**
+- ⚡  Fun fact **I feel like I am an analog guy in a digital world!**
 
 <br/>
 
@@ -45,10 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanhutagi&show_icons=true&locale=en&layout=compact" alt="pavanhutagi" /></p>
 
-<br/>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanhutagi&show_icons=true&locale=en" alt="pavanhutagi" /></p>
-
-<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanhutagi&" alt="pavanhutagi" /></p>
