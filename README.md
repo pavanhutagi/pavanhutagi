@@ -7,15 +7,15 @@
 
 <br/>
 
-- 🌱  I’m currently learning **Next.js**
+- 🌱 &nbsp; I’m currently learning **Next.js**
 
-- 👨‍💻  All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/)
+- 👨‍💻 &nbsp; All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/)
 
-- 💬  Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
+- 💬 &nbsp; Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
 
-- 📫  How to reach me **pavanhutagi@gmail.com**
+- 📫 &nbsp; How to reach me **pavanhutagi@gmail.com**
 
-- ⚡  Fun fact **I feel like I am an analog guy in a digital world!**
+- ⚡ &nbsp; Fun fact **I feel like I am an analog guy in a digital world!**
 
 <br/>
 
