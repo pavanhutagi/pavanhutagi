@@ -15,7 +15,7 @@
 
 - 📫 &nbsp; How to reach me **pavanhutagi@gmail.com**
 
-- ⚡ &nbsp; Fun fact **I feel like I am an analog guy in a digital world!**
+- ⚡ &nbsp; Fun fact - **I feel like I am an analog guy in a digital world!**
 
 <br/>
 
