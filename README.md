@@ -9,7 +9,7 @@
 
 - 🌱 &nbsp; I’m currently learning **Next.js**
 
-- 👨‍💻 &nbsp; All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/)
+- 👨‍💻 &nbsp; All of my projects are available at [https://www.pavanhutagi.com/](https://www.pavanhutagi.com/) https://github.com/pavanhutagi?tab=repositories
 
 - 💬 &nbsp; Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
 
