@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🌱 &nbsp; I’m currently learning **Next.js**
+- 🌱 &nbsp; I’m currently learning **Next.js, Typescript, Tailwind CSS**
 
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/pavanhutagi?tab=repositories
 
