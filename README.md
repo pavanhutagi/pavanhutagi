@@ -11,7 +11,7 @@
 
 - 👨‍💻 &nbsp; All of my projects are available at https://github.com/pavanhutagi?tab=repositories
 
-- 💬 &nbsp; Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Express.js, MongoDB**
+- 💬 &nbsp; Ask me about **Angular, React, Next.js, Typescript, Tailwind CSS, Bootstrap, PHP, Laravel, Node.js, Express.js, MongoDB**
 
 - 📫 &nbsp; How to reach me **pavanhutagi@gmail.com**
 
