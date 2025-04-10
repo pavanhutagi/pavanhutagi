@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Hutagi!</h1>
-<h3 align="center">A passionate full-stack web developer from India 🇮🇳</h3>
+<h3 align="center">A passionate frontend engineer from India 🇮🇳</h3>
 
 <br/>
 
